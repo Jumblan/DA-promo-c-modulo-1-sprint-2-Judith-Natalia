@@ -1,5 +1,3 @@
-# DA-promo-c-modulo-1-sprint-2-Judith-Natalia 
-INFORMACIÓN RELEVANTE 
 
 Este repositorio contiene la resolución de los ejercicios propuestos por Adalab bajo la modalidad de Pair Programming en remoto. Resueltos por las alumnas Judith Blanco y Natalia García Lago.
 
